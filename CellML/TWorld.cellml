@@ -12292,7 +12292,7 @@
                         <ci>ktm_block</ci>
                         <apply>
                             <min/>
-                            <cn cellml:units="dimensioness">100</cn>
+                            <cn cellml:units="dimensionless">100</cn>
                             <apply>
                                 <power/>
                                 <ci>contraction_Ca_TRPN</ci>

@@ -2695,7 +2695,7 @@
                         <power/>
                         <apply>
                             <plus/>
-                            <cn cellml:units="dimensionles">1</cn>
+                            <cn cellml:units="dimensionless">1</cn>
                             <apply>
                                 <exp/>
                                 <apply>

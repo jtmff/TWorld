@@ -12880,9 +12880,6 @@
     <connection>
         <map_components component_1="PKA" component_2="contraction"/>
         <map_variables variable_1="fTnI_PKA" variable_2="fTnI_PKA"/>
-    </connection>
-    <connection>
-        <map_components component_1="PKA" component_2="contraction"/>
         <map_variables variable_1="fMyBPC_PKA" variable_2="fMyBPC_PKA"/>
     </connection>
     <!-- mappings for Multipliers-->
